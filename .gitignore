@@ -1,0 +1,10 @@
+# DBeaver metadata
+.dbeaver/
+
+# System files
+*.DS_Store
+Thumbs.db
+
+# Backup/temp files
+*.bak
+*.tmp
